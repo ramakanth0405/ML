@@ -1,3 +1,3 @@
 # ML
-Notes and Study Materials for My students.
-M.Sc Data Science and Analytics
+M.Sc Data Science and Analytics :- Notes and Study Materials for My students.
+
